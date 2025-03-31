@@ -8,11 +8,11 @@ local LocalPlayer = Players.LocalPlayer
 local MURDERER_WEAPONS = {
     "Sawn-off",
     "RR-LightCompactPistolS",
-    "K1911" -- Добавлен по вашему уточнению
+    "K1911" 
 }
 
 local SHERIFF_WEAPONS = {
-    "RR-snubby",
+    "RR-Snubby",
     "GG-17",
     "IZVEKH-412"
 }
