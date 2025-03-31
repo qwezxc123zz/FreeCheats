@@ -1,20 +1,21 @@
--- Ultimate Blood Debt ESP (Полная версия)
+-- Ultimate Blood Debt ESP (Обновленная версия)
 getgenv().Toggle = true
 
 local Players = game:GetService("Players")
 local LocalPlayer = Players.LocalPlayer
 
--- Точные названия оружия (обновленные)
+-- Оружие УБИЙЦ (полный актуальный список)
 local MURDERER_WEAPONS = {
     "Sawn-off",
     "RR-LightCompactPistolS",
-    "K1911" 
-    "Ry's GG-17" 
-    "AT's KAR15"
+    "K1911",
+    "Ry's GG-17",  -- Добавлено по вашему запросу
+    "AT's KAR15"   -- Добавлено по вашему запросу
 }
 
+-- Оружие ШЕРИФОВ
 local SHERIFF_WEAPONS = {
-    "RR-Snubby",
+    "RR-snubby",
     "GG-17",
     "IZVEKH-412"
 }
