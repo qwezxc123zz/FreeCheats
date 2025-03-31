@@ -11,7 +11,8 @@ local MURDERER_WEAPONS = {
     "K1911",
  "Ry's GG-17",
 "AT's KAR15",
-"JS2-Derringy"
+"JS2-Derringy",
+"VK's ANKM"
 }
 
 local SHERIFF_WEAPONS = {
