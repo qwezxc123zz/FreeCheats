@@ -9,7 +9,7 @@ local MURDERER_WEAPONS = {
     "Sawn-off",
     "RR-LightCompactPistolS",
     "K1911",
- "Ry's GG-17",
+ "RY's GG-17",
 "AT's KAR15",
 "JS2-Derringy",
 "VK's ANKM"
