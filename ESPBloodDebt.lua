@@ -118,10 +118,7 @@ coroutine.wrap(ESPLoop)()
 
 -- Информационное уведомление
 local weaponInfo = string.format(
-    "🔴 Убийцы / 🔵 Шерифы ,
-    table.concat(MURDERER_WEAPONS, ", "),
-    table.concat(SHERIFF_WEAPONS, ", ")
-)
+    "🔴 Убийцы / 🔵 Шерифы , )
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "ESP Активирован",
