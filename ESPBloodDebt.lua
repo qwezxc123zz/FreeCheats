@@ -118,7 +118,7 @@ coroutine.wrap(ESPLoop)()
 
 -- Информационное уведомление
 local weaponInfo = string.format(
-    "🔴 Убийцы: %s\n🔵 Шерифы: %s",
+    "🔴 Убийцы / 🔵 Шерифы ,
     table.concat(MURDERER_WEAPONS, ", "),
     table.concat(SHERIFF_WEAPONS, ", ")
 )
